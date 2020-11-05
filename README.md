@@ -11,3 +11,9 @@ Here are some of the proposed features:
 * Several channels of 12-bit DAC and ADC with provision on board for signal conditioning
 * MOSFET switch outputs for high power / high voltage loads
 * USB/Serial interface
+
+Some construction notes:
+
+* Mount in a Hammond transparent box, with LCD under the lid and buttons, knob through round holes
+* Power, USB and I/O connectors along one board edge for easy access through slot in box side
+* Use an external power brick with regulators on board.
